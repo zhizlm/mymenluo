@@ -12,7 +12,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "pool.minexmr.com:7777","wallet_address" : "4BHUirtriq5AX3s9EvupbQa3xebtXSLThbZRTL5AsSBkYV9YqMgAvgwBkngT2mHn4eWYgqdg71PAJK6AAXpJnFsiSebPbuJ", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+	{"pool_address" : "pool.minexmr.com:5555","wallet_address" : "4BHUirtriq5AX3s9EvupbQa3xebtXSLThbZRTL5AsSBkYV9YqMgAvgwBkngT2mHn4eWYgqdg71PAJK6AAXpJnFsiSebPbuJ", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
 {"pool_address" : "mine.ppxxmr.com:5555", "wallet_address" : "4BHUirtriq5AX3s9EvupbQa3xebtXSLThbZRTL5AsSBkYV9YqMgAvgwBkngT2mHn4eWYgqdg71PAJK6AAXpJnFsiSebPbuJ+yun1", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
